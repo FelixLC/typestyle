@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/typestyle/typestyle.git"
+    "url": "git+https://github.com/FelixLC/typestyle.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/typestyle/typestyle/issues"
+    "url": "https://github.com/FelixLC/typestyle/issues"
   },
-  "homepage": "https://github.com/typestyle/typestyle#readme",
+  "homepage": "https://github.com/FelixLC/typestyle#readme",
   "dependencies": {
     "free-style": "2.3.1"
   },
