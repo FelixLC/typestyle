@@ -1,5 +1,5 @@
 {
-  "name": "typestyle",
+  "name": "typestyle-nw",
   "version": "1.4.0",
   "description": "TypeSafe CSS",
   "main": "./lib/index.js",
